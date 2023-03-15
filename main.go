@@ -13,7 +13,7 @@ const (
 	version = "v1.1.0"
 )
 
-//test
+//testing
 func main() {
 	log.Println("Starting helloworld application...")
 
